@@ -1,9 +1,9 @@
-let nomeHeroi = "Caio"
+let nomeHeroi = "Vinícius"
 let xpQntd = 10000
-let nivel = "teste"
+
 
 if (xpQntd <= 1000) {
-    nivel = "Ferro"
+    let nivel = "Ferro"
 
 } else if (xpQntd > 1000 && xpQntd < 2001) {
     nivel = "Bronze"
